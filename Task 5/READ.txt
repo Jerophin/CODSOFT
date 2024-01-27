@@ -1,2 +1,2 @@
-NOTE: The CSV File can be Downloaded From https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and imported as the File Size is more than 25 MB 
+NOTE: The CSV File can be Downloaded From https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud and imported as the CSV File Size is more than 25 MB 
 the csv file cannot be directly uploaded in github
